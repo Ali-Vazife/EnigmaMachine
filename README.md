@@ -32,7 +32,6 @@ Replace "word" with the single word you want to encode or decode. The simulated 
 
 
 **To change daily rotors:**
-
 ```bash
 node codeDecode.js changeRotors
 ```
