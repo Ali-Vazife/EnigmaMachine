@@ -30,3 +30,9 @@ node codeDecode.js code "word"
 
 Replace "word" with the single word you want to encode or decode. The simulated Enigma machine will process the input, considering rotor settings and plugboard connections.
 
+
+**To change daily rotors:**
+
+```bash
+node codeDecode.js changeRotors
+```
